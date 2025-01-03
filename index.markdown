@@ -2,63 +2,44 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: "Short Bio"
+title: "Márcio Vianna"
 ---
 
-Hello, welcome to my site. My name is Márcio Vianna, I'm a Chemical Engineer from Brazil who's always enjoyed working with computers.
-I have a dual doctoral degree in mathematical modeling and simulation, and I've been working in the intersection of engineering and computer science
-for over ten years.
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="/images/photo.jpg" alt="Márcio Vianna" style="width: 150px; height: 150px; border-radius: 50%;">
+  <div>
+    <h2>Hi, I'm Márcio!</h2>
+    <p>
+      I’m a Chemical Engineer from Brazil with a passion for blending engineering and computer science. Over the past decade, 
+      I’ve worked on everything from process simulation to AI, solving challenging problems with innovative solutions.
+    </p>
+  </div>
+</div>
 
-I'm also the founder and developer of [Voima Toolbox](https://voimatoolbox.com), a web platform enabling engineers to perform calculations. It's been growing quite well,
-reaching over 2.5k organic clicks on Google per month, and has around 3k registered engineers and technicians.
+## About Me
 
-I've done a lot of consulting, where have either developed custom _chemical process simulators_, or helped teams develop their own.
+I hold a dual PhD in Mathematical Modeling (from [UFMG](https://ufmg.br), Brazil) and Energy Systems (from [LUT University](https://www.lut.fi/en), Finland), and I also have a Master’s in **Mathematical Modeling and Optimization**. My career has focused on creating impactful solutions at the intersection of engineering and IT.
 
-I also work with and teach AI at a post-graduate level at a local university (more specifically, _reinforcement learning_). Recently, I've helped a small
-logistics company leverage their largely unused history dataset to more accurately predict routing prices using AI.
+I’m the founder of [Voima Toolbox](https://voimatoolbox.com), a platform that simplifies complex engineering calculations. Voima has grown steadily, drawing over 2.5k monthly visitors on Google and building a community of nearly 3k engineers and technicians.
 
-Here's a more detailed drilldown of my resume:
+My work has taken me across international teams and collaborations, equipping me with the skills to operate well in diverse, multicultural environments.
 
-## 1. Professional & Academic Background
+I have extensive expertise in **process simulation, optimization**, and in creating computational tools for the engineering sector.
 
-- **Chemical Engineer** with a dual-PhD in **Mathematical Modeling** (UFMG, Brazil) and **Energy Systems** (LUT University, Finland), plus a Master’s in **Mathematical Modeling and Optimization**.
-- Extensive expertise in **process simulation, optimization,** and **computational frameworks** for the engineering sector.
+Beyond my work, I’m a lifelong learner, constantly challenging myself with advanced courses in fields like AI, statistics, pure math, and numerical methods. I’ve earned a [MicroMasters from MIT](https://credentials.edx.org/credentials/cdd5c3bb0235440ca3ab8a0ead1c79d2/) in statistics and data science, further sharpening my skills.
 
-## 2. Voima Toolbox
+I also teach AI (primarily reinforcement learning) at the post-graduate level. My projects include helping a logistics company harness historical data to predict routing prices more accurately and designing simulators for major industries like oil and chemicals.
 
-- **Founder/Developer** of **[Voima Toolbox](https://voimatoolbox.com)**, a web platform enabling engineers to perform calculations, manage projects, and build workflows via a **node editor**.
-- [Voima Toolbox](https://voimatoolbox.com) also has a free-to-use version, which helps engineers perform common, and often tricky, standalone calculations.
-- Currently counts with close to **3,000 registered engineers and technicians**, with **2,500+ monthly Google clicks**—rapidly growing user base and industry adoption.
+## Highlights
 
-Comparing Dec/2024 with Jan/2024, we've experienced an amazing
-2400% (yes, twenty four hundred percent) growth in organic Google clicks!
+- **International Expertise:** Worked with multicultural teams in Brazil, Finland, and beyond, gaining insights into global engineering challenges.
+- **Process Simulators:** Developed tools for industries, including one used by a leading global oil company.
+- **AI Solutions:** Built practical AI systems for logistics and process optimization, delivering measurable results.
+- **Lifelong Learning:** Studied advanced topics independently, including earning an MIT MicroMasters in statistics and data science.
+- **Education:** Taught AI to graduate students, mentoring the next generation of engineers and data scientists.
 
-## 3. Process Simulators
+## Let’s Work Together
 
-Chemical process simulation and optimization are really the bread and butter of my consulting practice, and I've
+I’m excited about opportunities to collaborate on projects in technology, innovation, and AI-driven solutions. If you’re looking for someone to join your team or partner with, let’s connect.
 
-- Collaborated with an IT company to **design and implement** a comprehensive **steady-state chemical process simulator** for the **oil and gas** sector.
-- The simulator is now in **production**, actively used by one of the **world’s largest oil companies**—a testament to its industrial-grade reliability.
-- Currently developing a series of custom steady-state simulators for a large mining company.
-
-## 4. Computer Vision for Process Control
-
-- Built a **computer vision system** for a process control company that **analyzes and measures particle sizes** in **mining plants**, improving real-time monitoring and control.
-- Helped streamline **quality control** and reduce downtime in high-throughput industrial environments.
-
-## 5. Industrial HMIs (Human-Machine Interfaces)
-
-- **Developed and deployed** multiple **Human-Machine Interfaces (HMIs)** in the **mining industry**, enhancing operational visibility and control across complex process setups.
-
-## 6. Transient-State Water Hammer Simulator
-
-- Created a **transient-state water hammer simulator** used for **risk assessment** and **prevention** in **major Brazilian water supply pipelines**—helping avoid catastrophic pipeline failures and improve infrastructure resilience.
-
----
-
-<!-- ### Additional Ideas or Sections to Consider -->
-
-<!-- - **Testimonials**: Include client or user quotes to provide social proof. -->
-<!-- - **Awards & Recognition**: Showcase any relevant industry or academic awards. -->
-<!-- - **Publications & Talks**: Highlight prominent papers or conference presentations. -->
-<!-- - **Contact / Services**: Summarize consulting, custom development, or speaking services you offer. -->
+Reach out to me at **[marcio@voimatoolbox.com](mailto:marcio@voimatoolbox.com)** or explore my [portfolio](/02_portfolio) for more about my work.
